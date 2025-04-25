@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    }
+
+/* comment syntax reminder */
+#mainText {
+h1, h2 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+    text-indent: 1em;
+}
+}
